@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on an agentic AI side projects I'm excited about
-- 🌱 I'm currently learning anything related to Agentic AI
-- 😄 Pronouns: he/him
+- I'm currently working on an agentic AI side projects I'm excited about
+- I'm currently learning anything related to Agentic AI
+- Pronouns: he/him
 
 ---
 
