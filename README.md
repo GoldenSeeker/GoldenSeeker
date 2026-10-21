@@ -13,10 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **an open-source side projects I'm excited about**
-- 🌱 I'm currently learning **Rust and system design**
-- 💬 Ask me about **Python, web development, or anything tech**
-- 😄 Pronouns: **he/him**
+- 🔭 I'm currently working on an agentic AI side projects I'm excited about
+- 🌱 I'm currently learning anything related to Agentic AI
+- 😄 Pronouns: he/him
 
 ---
 
